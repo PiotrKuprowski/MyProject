@@ -32,6 +32,10 @@ Actually in fact, the tests will be about adding gift vouchers to the cart
    [3.2 Reporting a bug to a test case from 1.5](https://github.com/PiotrKuprowski/MyProject/blob/Files/PIOT3.png)
    
    * [3.2.1 Screenshot](https://github.com/PiotrKuprowski/MyProject/blob/Files/Thaibalicart.png)
+
+   [3.3 Reporting a bug to a test case from 1.6](https://github.com/PiotrKuprowski/MyProject/blob/Files/PIOT4.png)
+   
+   * [3.3.1 Screenshot](https://github.com/PiotrKuprowski/MyProject/blob/Files/thaibali60.png)
    
    
    
