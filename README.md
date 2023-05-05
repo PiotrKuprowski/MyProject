@@ -5,7 +5,5 @@ I'll do the exploration tests of https://thaibali.pl/
 
 Actually tests in fact, the tests will be about adding gift vouchers to the cart
 
-
-
-CONTENTS:
+    CONTENTS:
   
