@@ -5,7 +5,7 @@ I'll do the exploration tests of https://thaibali.pl/
 
 Actually in fact, the tests will be about adding gift vouchers to the cart
 
- CONTESTS:
+## CONTESTS:
 
    ### [1. Test cases](https://github.com/PiotrKuprowski/MyProject/blob/main/Alltestcases.png)
 
