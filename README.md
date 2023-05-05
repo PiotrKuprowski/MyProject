@@ -20,3 +20,7 @@ Actually in fact, the tests will be about adding gift vouchers to the cart
    [1.5 Payment with number in the name field](https://github.com/PiotrKuprowski/MyProject/blob/Project/Testcase5.png)
    
    [1.6 Adding 100 gift vouchers](https://github.com/PiotrKuprowski/MyProject/blob/Project/Testcase6.png)
+   
+   
+   
+   
