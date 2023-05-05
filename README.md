@@ -23,6 +23,10 @@ Actually in fact, the tests will be about adding gift vouchers to the cart
    
    ### [2. Test run](https://github.com/PiotrKuprowski/MyProject/blob/Files/Testrun.png)
    
+   ### [3. Jira](https://github.com/PiotrKuprowski/MyProject/blob/Files/Jira.png)
+   
+   [3.1 Reporting a bug to a test case from 1.2](https://github.com/PiotrKuprowski/MyProject/blob/Files/JiraPIOT2.png)
+   
    
    
    
